@@ -1,0 +1,8 @@
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.exe.config
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.exe
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.pdb
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.csproj.AssemblyReference.cache
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.csproj.CoreCompileInputs.cache
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.exe
+C:\Users\Public\Anirban\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.pdb
